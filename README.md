@@ -21,7 +21,7 @@
 <li>- ExpressJS ✳️
 <li>- TypeScript & Javascript 🦸🏻‍♂️</li>
 <li>- Python 🐍</li>
-<li>- Azure <img height="36px" width="36px" src="https://www.flaticon.com/svg/vstatic/svg/732/732221.svg?token=exp=1615649069~hmac=1819309f200419122d341bfcbfc0b349"/> </li>
+<li>- Azure <img height="15px" width="15px" src="https://www.flaticon.com/svg/vstatic/svg/732/732221.svg?token=exp=1615649069~hmac=1819309f200419122d341bfcbfc0b349"/> </li>
   </ul>
 </div>
 
