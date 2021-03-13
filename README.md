@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**NawafSwe/NawafSwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **NawafSwe/NawafSwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 - Senior Software Engineering Student At KFUPM, iOS & Web Backend Developer At @Axenda 💻
 - 🔭 I’m currently working on various projects in two different fields backend and ios.
 - 🌱 I’m currently learning Azure Fundamentals to be certified Azure Developer from @Microsoft 😍.
@@ -10,4 +9,4 @@
 - 📫 How to reach me:Nawaf.jr7100@gmail.com
 - ☕️ Black coffe fan ☕️  
 - ⚡ Fun fact: learing new technologies on my free time is my happiness 😌.
--->
+
