@@ -19,7 +19,8 @@
 <li>- SwiftUI 🍎 </li>
 <li>- MongoDB <img height="15px" width="15px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"/>
 <li>- ExpressJS ✳️
-<li>- TypeScript & Javascript 🦸🏻‍♂️</li>
+<li>- TypeScript <img height="15px" width="15px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> 🦸🏻‍♂️</li>
+<li>- Javascript <img height="15px" width="15px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/> 🦸🏻‍♂️</li>
 <li>- Python 🐍</li>
 <li>- Azure <img height="15px" width="15px" src="https://www.flaticon.com/svg/vstatic/svg/732/732221.svg?token=exp=1615649069~hmac=1819309f200419122d341bfcbfc0b349"/> </li>
   </ul>
