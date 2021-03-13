@@ -30,9 +30,9 @@
 <b>⚡ My GitHub Statistics</b>
 
 <p align="center">
-<img height="180em" src="https://mz-github-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=calm"/>
+<img height="180em" src="https://mz-github-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=radical"/>
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=calm"/>
+<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 
 </p>
