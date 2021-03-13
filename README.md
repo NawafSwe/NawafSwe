@@ -17,7 +17,7 @@
     
 <li>- NodeJS <img height="15px" width="15px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/> </li>
 <li>- SwiftUI 🍎 </li>
-<li>- MongoDB 🍃
+<li>- MongoDB <img height="15px" width="15px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"/>
 <li>- ExpressJS ✳️
 <li>- TypeScript & Javascript 🦸🏻‍♂️</li>
 <li>- Python 🐍</li>
