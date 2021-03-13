@@ -13,13 +13,16 @@
 <!--  Tech I use !-->
 <b> My favourite Technology 💻 ☕️</b>
 <div align="center">
-- NodeJS ✳️
-- SwiftUI 🍎
-- MongoDB 🍃
-- ExpressJS ✳️
-- TypeScript & Javascript 🦸🏻‍♂️
-- Python 🐍
-- Azure <img src="![image](https://user-images.githubusercontent.com/35840833/111034466-d8737100-8426-11eb-9706-7f2d1db9695b.png)"/>
+  <ul>
+    
+<li>- NodeJS ✳️ </li>
+<li>- SwiftUI 🍎 </li>
+<li>- MongoDB 🍃
+<li>- ExpressJS ✳️
+<li>- TypeScript & Javascript 🦸🏻‍♂️</li>
+<li>- Python 🐍</li>
+<li>- Azure <img src="https://www.flaticon.com/svg/vstatic/svg/732/732221.svg?token=exp=1615649069~hmac=1819309f200419122d341bfcbfc0b349"/> </li>
+  </ul>
 </div>
 
 <b>⚡ My GitHub Statistics</b>
