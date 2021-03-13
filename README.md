@@ -15,7 +15,7 @@
 <div>
   <ul>
     
-<li>- NodeJS ✳️ </li>
+<li>- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </li>
 <li>- SwiftUI 🍎 </li>
 <li>- MongoDB 🍃
 <li>- ExpressJS ✳️
