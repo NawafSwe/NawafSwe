@@ -33,6 +33,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=vue-dark" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+<img height="180em" src="https://mz-github-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=calm"/>
 
 </p>
