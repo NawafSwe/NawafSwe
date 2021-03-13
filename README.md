@@ -11,7 +11,7 @@
 - Fun fact ⚡ : learing new technologies on my free time is my happiness 😌 .
 
 <!--  Tech I use !-->
-<b> My favourite Technology 💻 ☕️</b>
+<b> My favourite Technologies 💻 ☕️</b>
 <div>
   <ul>
     
