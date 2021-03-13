@@ -12,7 +12,7 @@
 
 <!--  Tech I use !-->
 <b> My favourite Technology 💻 ☕️</b>
-<div align="center">
+<div>
   <ul>
     
 <li>- NodeJS ✳️ </li>
