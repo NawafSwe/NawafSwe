@@ -15,7 +15,7 @@
 <div>
   <ul>
     
-<li>- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </li>
+<li>- NodeJS <img height="15px" width="15px" src="https://img.favpng.com/20/4/0/node-js-javascript-react-mean-angularjs-png-favpng-9jx9sihXGEqtr5xCmpXZtGFjQ.jpg"/> </li>
 <li>- SwiftUI 🍎 </li>
 <li>- MongoDB 🍃
 <li>- ExpressJS ✳️
