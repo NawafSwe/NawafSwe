@@ -10,3 +10,12 @@
 - Black coffee fan ☕️ .
 - Fun fact ⚡ : learing new technologies on my free time is my happiness 😌 .
 
+<b>⚡ My GitHub Statistics</b>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+
+</p>
