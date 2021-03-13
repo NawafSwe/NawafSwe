@@ -10,6 +10,18 @@
 - Black coffee fan ☕️ .
 - Fun fact ⚡ : learing new technologies on my free time is my happiness 😌 .
 
+<!--  Tech I use !-->
+<b> My favourite Technology 💻 ☕️</b>
+<div align="center">
+- NodeJS ✳️
+- SwiftUI 🍎
+- MongoDB 🍃
+- ExpressJS ✳️
+- TypeScript & Javascript 🦸🏻‍♂️
+- Python 🐍
+- Azure <img src="![image](https://user-images.githubusercontent.com/35840833/111034466-d8737100-8426-11eb-9706-7f2d1db9695b.png)"/>
+</div>
+
 <b>⚡ My GitHub Statistics</b>
 
 <p align="center">
