@@ -23,7 +23,7 @@
 <li> TypeScript <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> </li>
 <li> Javascript <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/> </li>
 <li> Python 🐍</li>
-<li> Azure <img height="20px" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/732/732221.svg?token=exp=1615649069~hmac=1819309f200419122d341bfcbfc0b349"/> </li>
+<li> Azure <img height="20px" width="20px" src="Assessts/azure-1.svg"/> </li>
   </ul>
 </div>
 
