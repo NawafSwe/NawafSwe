@@ -15,15 +15,15 @@
 <div>
   <ul>
     
-<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/> NodeJS</li>
-<li><img height="20px" width="20px" src="https://img.icons8.com/plasticine/2x/swiftui.png"/> SwiftUI</li>
-<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/> Swift</li>
-<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"/> MongoDB </li>
+<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>   NodeJS</li>
+<li><img height="20px" width="20px" src="https://img.icons8.com/plasticine/2x/swiftui.png"/>  SwiftUI</li>
+<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/>  Swift</li>
+<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"/>   MongoDB </li>
 <li>✳️ ExpressJS</li>
-<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> TypeScript</li>
-<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/> Javascript</li>
-<li>🐍  Python</li>
-<li><img height="20px" width="20px" src="Assessts/azure-1.svg"/> Azure</li>
+<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/>  TypeScript</li>
+<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/>   Javascript</li>
+<li>🐍    Python</li>
+<li><img height="20px" width="20px" src="Assessts/azure-1.svg"/>  Azure</li>
   </ul>
 </div>
 
