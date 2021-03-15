@@ -20,8 +20,8 @@
 <li><img height="20px" width="20px" src="Assessts/swift.png"/>  Swift</li>
 <li><img height="20px" width="20px" src="Assessts/mongdb.png"/>   MongoDB </li>
 <li>✳️ ExpressJS</li>
-<li><img height="20px" width="20px" src="Assessts/ts"/>  TypeScript</li>
-<li><img height="20px" width="20px" src="Assessts/js"/>   Javascript</li>
+<li><img height="20px" width="20px" src="Assessts/ts.png"/>  TypeScript</li>
+<li><img height="20px" width="20px" src="Assessts/js.png"/>   Javascript</li>
 <li>🐍    Python</li>
 <li><img height="20px" width="20px" src="Assessts/azure-1.svg"/>  Azure</li>
   </ul>
