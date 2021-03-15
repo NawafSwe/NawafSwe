@@ -15,7 +15,7 @@
 <div>
   <ul>
     
-<li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>   NodeJS</li>
+<li><img height="20px" width="20px" src="Assessts/Nodejs.webp"/>   NodeJS</li>
 <li><img height="20px" width="20px" src="https://img.icons8.com/plasticine/2x/swiftui.png"/>  SwiftUI</li>
 <li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/>  Swift</li>
 <li><img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"/>   MongoDB </li>
