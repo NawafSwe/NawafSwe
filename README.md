@@ -24,6 +24,7 @@
 <li><img height="20px" width="20px" src="Assessts/js.png"/>   Javascript</li>
 <li>🐍    Python</li>
 <li><img height="20px" width="20px" src="Assessts/azure-1.svg"/>  Azure</li>
+    <li>🧪 Jest </li>
   </ul>
 </div>
 
