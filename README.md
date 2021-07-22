@@ -27,6 +27,8 @@
 <li><img height="20px" width="20px" src="Assessts/azure-1.svg"/>  Azure</li>
     <li>🧪 Jest </li>
     <li>🦖 Deno </li>
+    <li>🍃 Spring Boot</li>
+    <li>📀 Postgresql</li>
   </ul>
 </div>
 
