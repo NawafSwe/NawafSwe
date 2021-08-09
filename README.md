@@ -29,6 +29,7 @@
     <li>🦖 Deno </li>
     <li>🍃 Spring Boot</li>
     <li>📀 Postgresql</li>
+    <li>Golang</li>
   </ul>
 </div>
 
