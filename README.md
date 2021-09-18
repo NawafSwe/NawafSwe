@@ -35,6 +35,7 @@
 </div>
 
 <b>⚡ My GitHub Statistics</b>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NawafSwe&theme=onedark&margin-w=15&margin-h=15&column=7" alt="NawafSwe" /></a> </p>
  <p align="center">
   <img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=NawafSwe&theme=github" >
  </p> 
