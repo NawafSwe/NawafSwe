@@ -42,6 +42,11 @@
 <!-- Most Used Languages -->
 <img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 
+  <p align="center"> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="suubh" /> 
+
+</p>
+
 <footer> <strong>
   NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.
 </strong> </footer>
