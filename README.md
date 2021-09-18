@@ -34,9 +34,7 @@
   </ul>
 </div>
 
-<b>⚡ My GitHub Statistics</b>
-<h4>Watch my contribution graph here.</h4>
-  
+<b>⚡ My GitHub Statistics</b>  
  <p align="center">
   <img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=NawafSwe&theme=github" >
  </p> 
