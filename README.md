@@ -10,7 +10,7 @@
 - Ask me about anything on my <a href="https://twitter.com/Nawaf_B_910">twitter</a> 💬 .
 - How to reach me 📥 : Nawaf.jr7100@gmail.com .
 - Black coffee fan ☕️ .
-- Fun fact ⚡ : learing new technologies on my free time is my happiness 😌 .
+- Fun fact ⚡ : learning new technologies on my free time is my happiness 😌 .
 
 <!--  Tech I use !-->
 <b> ⚡️ My favourite Technologies 💻 ☕️</b>
