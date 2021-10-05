@@ -47,17 +47,16 @@
   <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=nawafswe&theme=xcode" /></div>
 
 </p>
+ <p align="center"> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="suubh" /> 
+
+</p>
 
 <div align="center" style="margin: 40px 40px">
     <a href="https://github.com/topdev0729/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=nawafswe&color=0A0A0A">
     </a>
   </div>
-    <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="suubh" /> 
-
-</p>
-
   <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 <footer> <strong>
   NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.
