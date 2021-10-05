@@ -50,7 +50,11 @@
   <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="suubh" /> 
 
 </p>
-
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/topdev0729/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=nawafswe&color=#0A0A0A">
+    </a>
+  
 <footer> <strong>
   NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.
 </strong> </footer>
