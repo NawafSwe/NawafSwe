@@ -54,6 +54,7 @@
     <a href="https://github.com/topdev0729/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=nawafswe&color=0A0A0A">
     </a>
+  </div>
   
 <footer> <strong>
   NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.
