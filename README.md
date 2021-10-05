@@ -47,7 +47,7 @@
 <img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 
   <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="suubh" /> 
+  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=nawafswe&theme=xcode" /></div>
 
 </p>
 
