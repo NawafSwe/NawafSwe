@@ -17,15 +17,15 @@
 <div>
   <ul>
     
-<li><img height="20px" width="20px" src="Assessts/Nodejs.webp"/>   NodeJS</li>
-<li><img height="20px" width="20px" src="Assessts/swiftui.png"/>  SwiftUI</li>
-<li><img height="20px" width="20px" src="Assessts/swift.png"/>  Swift</li>
-<li><img height="20px" width="20px" src="Assessts/mongdb.png"/>   MongoDB </li>
+<li><img height="20px" width="20px" src="Assessts/Nodejs.webp" alt="Nodejs" />   NodeJS</li>
+<li><img height="20px" width="20px" src="Assessts/swiftui.png" alt="swiftUI" />  SwiftUI</li>
+<li><img height="20px" width="20px" src="Assessts/swift.png" alt="swift" />  Swift</li>
+<li><img height="20px" width="20px" src="Assessts/mongdb.png" alt="mongodb" />   MongoDB </li>
 <li>✳️ ExpressJS</li>
-<li><img height="20px" width="20px" src="Assessts/ts.png"/>  TypeScript</li>
-<li><img height="20px" width="20px" src="Assessts/js.png"/>   Javascript</li>
+<li><img height="20px" width="20px" src="Assessts/ts.png" alt="ts"/>  TypeScript</li>
+<li><img height="20px" width="20px" src="Assessts/js.png" alt="js" />   Javascript</li>
 <li>🐍    Python</li>
-<li><img height="20px" width="20px" src="Assessts/azure-1.svg"/>  Azure</li>
+<li><img height="20px" width="20px" src="Assessts/azure-1.svg"/ alt="azure">  Azure</li>
     <li>🧪 Jest </li>
     <li>🦖 Deno </li>
     <li>🍃 Spring Boot</li>
@@ -35,29 +35,35 @@
 </div>
 
 <b>⚡ My GitHub Statistics</b>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NawafSwe&theme=onedark&margin-w=15&margin-h=15&column=7" alt="NawafSwe" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NawafSwe&theme=onedark&margin-w=15&margin-h=15&column=7" alt="NawafSwe" />
+  </a> 
+</p>
  
 <p align="center">
-<img height="180em" src="https://mz-github-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=radical"/>
+<img height="180em" src="https://mz-github-stats.vercel.app/api?username=NawafSwe&show_icons=true&hide_border=true&theme=radical" alt="NawafSwe"/>
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=NawafSwe&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="NawafSwe"/>
 
   <p align="center"> 
-  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=nawafswe&theme=xcode" /></div>
+  <div  align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=nawafswe&theme=xcode" alt="NawafSwe"/>
+</div>
 
 </p>
  <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="suubh" /> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=NawafSwe&theme=dark" alt="NawafSwe" /> 
 
 </p>
 
 <div align="center" style="margin: 40px 40px">
     <a href="https://github.com/topdev0729/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=nawafswe&color=0A0A0A">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=nawafswe&color=0A0A0A" alt="NawafSwe">
     </a>
   </div>
-  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" alt="NawafSwe"/></div>
 <footer> <strong>
   NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.
 </strong> </footer>
