@@ -30,7 +30,7 @@
     <li>🍃 Spring Boot</li>
     <li>📀 Postgresql</li>
     <li>Django</li>
-    <li>Docker 🐳</li>
+    <li>🐳 Docker</li>
     <li>Django</li>
   </ul>
 </div>
