@@ -7,7 +7,6 @@
 - I’m currently working on various projects as software backend engineer 🔭 .
 - Certified Azure Developer from <a href="https://github.com/microsoft">@Microsoft</a> 😍 🌱 .
 - I’m looking to collaborate on open source project specifically on nodejs projects 👯 .
-- Ask me about anything on my <a href="https://twitter.com/Nawaf_B_910">twitter</a> 💬 .
 - How to reach me 📥 : Nawaf.jr7100@gmail.com .
 - Black coffee fan ☕️ .
 - Fun fact ⚡ : learning new technologies on my free time is my happiness 😌 .
