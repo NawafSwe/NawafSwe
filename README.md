@@ -1,6 +1,4 @@
 ### Hi there 🚀
-
-<!-- **NawafSwe/NawafSwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 - Backend Software Engineer 💻.
 - Software Engineering Student at KFUPM.
 - I have tried many fields such as backend , mobile, frontend development, but I am interested in backend development.
