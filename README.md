@@ -2,9 +2,8 @@
 - Backend Software Engineer 💻.
 - Software Engineering Student at KFUPM.
 - I have tried many fields such as backend , mobile, frontend development, but I am interested in backend development.
-- I’m currently working on various projects as software backend engineer 🔭 .
+- I’m currently at Sary as a software backend engineer 🔭 .
 - Certified Azure Developer from <a href="https://github.com/microsoft">@Microsoft</a> 😍 🌱 .
-- I’m looking to collaborate on open source project specifically on nodejs projects 👯 .
 - How to reach me 📥 : Nawaf.jr7100@gmail.com .
 - Black coffee fan ☕️ .
 - Fun fact ⚡ : learning new technologies on my free time is my happiness 😌 .
@@ -29,6 +28,7 @@
     <li>Django</li>
     <li>🐳 Docker</li>
     <li>Django</li>
+    <li>AWS</li>
   </ul>
 </div>
 
