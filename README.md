@@ -1,6 +1,5 @@
 ### Hi there 🚀
 - Backend Software Engineer 💻.
-- Software Engineering Student at KFUPM.
 - I have tried many fields such as backend , mobile, frontend development, but I am interested in backend development.
 - I’m currently at Sary as a software backend engineer 🔭 .
 - Certified Azure Developer from <a href="https://github.com/microsoft">@Microsoft</a> 😍 🌱 .
