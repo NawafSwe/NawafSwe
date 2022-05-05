@@ -26,7 +26,6 @@
     <li>📀 Postgresql</li>
     <li>Django</li>
     <li>🐳 Docker</li>
-    <li>Django</li>
     <li>AWS</li>
   </ul>
 </div>
