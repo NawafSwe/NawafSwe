@@ -1,11 +1,10 @@
 ### Hi there 🚀
-- Associate Software Engineer At Sary 💻.
 - I have tried many fields such as backend , mobile, frontend development, but I am interested in backend development.
 - I’m currently at Sary as a software backend engineer 🔭 .
-- I'm Interested in Cloud Development ☁️ .
-- How to reach me 📥 : Nawaf.jr7100@gmail.com .
+- I'm Interested in Cloud Development ☁️.
+- How to reach me 📥 : Nawaf.jr7100@gmail.com.
 - Black coffee fan ☕️ .
-- Fun fact ⚡ : learning new technologies on my free time is my happiness 😌 .
+- Fun fact ⚡ : learning new technology topics in my free time is my happiness 😌.
 
 <!--  Tech I use !-->
 <b> ⚡️ My favourite Technologies 💻 ☕️</b>
