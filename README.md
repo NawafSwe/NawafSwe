@@ -1,7 +1,7 @@
 ### Hi there 🚀
-- I have tried many fields such as backend , mobile, frontend development, but I am interested in backend development.
-- I’m currently at Sary as a software backend engineer 🔭 .
-- I'm Interested in Cloud Development ☁️.
+- I have tried many fields such as backend , mobile, and frontend development, but I am interested in backend development.
+- I’m currently working at Sary as a backend software engineer. 🔭
+- I'm Interested in Cloud Development. ☁️
 - How to reach me 📥 : Nawaf.jr7100@gmail.com.
 - Black coffee fan ☕️ .
 - Fun fact ⚡ : learning new technology topics in my free time is my happiness 😌.
