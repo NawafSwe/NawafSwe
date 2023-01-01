@@ -3,7 +3,7 @@
 - I’m currently working at Sary as a backend software engineer. 🔭
 - I'm Interested in Cloud Development. ☁️
 - How to reach me 📥 : Nawaf.jr7100@gmail.com.
-- Black coffee fan ☕️ .
+- I love drinking black coffee every morning ☕️ .
 - Fun fact ⚡ : learning new technology topics in my free time is my happiness 😌.
 
 <!--  Tech I use !-->
@@ -12,14 +12,11 @@
   <ul>
     
 <li><img height="20px" width="20px" src="Assessts/Nodejs.webp" alt="Nodejs" />   NodeJS</li>
-<li><img height="20px" width="20px" src="Assessts/swiftui.png" alt="swiftUI" />  SwiftUI</li>
-<li><img height="20px" width="20px" src="Assessts/swift.png" alt="swift" />  Swift</li>
 <li><img height="20px" width="20px" src="Assessts/mongdb.png" alt="mongodb" />   MongoDB </li>
 <li>✳️ ExpressJS</li>
 <li><img height="20px" width="20px" src="Assessts/ts.png" alt="ts"/>  TypeScript</li>
 <li><img height="20px" width="20px" src="Assessts/js.png" alt="js" />   Javascript</li>
 <li>🐍    Python</li>
-<li><img height="20px" width="20px" src="Assessts/azure-1.svg"/ alt="azure">  Azure</li>
     <li>🧪 Jest </li>
     <li>🍃 Spring Boot</li>
     <li>📀 Postgresql</li>
