@@ -4,7 +4,7 @@
 - I'm Interested in Cloud Development. ☁️
 - How to reach me 📥 : Nawaf.jr7100@gmail.com.
 - I love drinking black coffee every morning ☕️ .
-- Fun fact ⚡ : learning new technology topics in my free time is my happiness 😌.
+- Fun fact ⚡ learning new technology topics in my free time is my happiness.
 
 <!--  Tech I use !-->
 <b> ⚡️ My favourite Technologies 💻 ☕️</b>
