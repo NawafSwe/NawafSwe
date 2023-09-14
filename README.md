@@ -55,7 +55,7 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=nawafswe&color=0A0A0A" alt="NawafSwe">
     </a>
   </div>
-  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" alt="NawafSwe"/></div>
+<!--   <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" alt="NawafSwe"/></div> -->
 <footer> <strong>
   NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.
 </strong> </footer>
