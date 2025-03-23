@@ -1,8 +1,6 @@
 ## 🚀 Hey there, I'm Nawaf!  
 
-💻 **Software Engineer** | ☕ Black Coffee Addict | 📖 Software Architecture Enthusiast  
-
-I have explored various fields—backend, mobile, and frontend development—but my true passion lies in **backend engineering**.  
+💻 **Software Engineer** | ☕ Black Coffee Addict | 📖 Software Architecture Enthusiast   
 Currently, I work as a **Software Engineer at Delivery Hero**, focusing on building scalable and maintainable systems.  
 
 - Interested in **Software Architecture, Design Patterns, and Engineering Scalability Challenges**  
