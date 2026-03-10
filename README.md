@@ -32,20 +32,7 @@ Currently, I work as a **Software Engineer at Delivery Hero**, focusing on build
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nawafswe">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nawafswe&theme=onedark" alt="GitHub Profile Summary"/>
-  </a>
-</p>
-
-*💡 Stats are based on public contributions and repo activity, not actual expertise.*  
-*🔍 For real skills, check out my projects below!* 🚀  
-
----
-
-### 📜 Recent Logs  
-- 🚀 Built and deployed an **email library** in Go with attachments support  
-- ☕ Started my day with a cup of **black coffee**, as always!  
+*💡 Stats are based on public contributions and repo activity, not actual expertise.*
 
 ---
 
